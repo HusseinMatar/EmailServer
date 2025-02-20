@@ -1,0 +1,95 @@
+[
+  {
+    "id": "f0dddf06-ff6f-4c18-8c80-f93459ee6661",
+    "sender": "user1@test.com",
+    "recipients": [
+      "user2@test.com"
+    ],
+    "subject": "Helo",
+    "content": "shdhds",
+    "sentDate": "2024/11/06 23:11"
+  },
+  {
+    "id": "b5647749-d238-4ce7-8b36-e2ec5802fd35",
+    "sender": "user2@test.com",
+    "recipients": [
+      "user1@test.com"
+    ],
+    "subject": "Forward: Reply: HELLO",
+    "content": "Forward: Reply: kdnsidf",
+    "sentDate": "2024/11/06 23:14"
+  },
+  {
+    "id": "e15201b9-6a99-427d-99cb-06419135f9cc",
+    "sender": "user2@test.com",
+    "recipients": [
+      "user1@test.com"
+    ],
+    "subject": "Forward: Forward: Reply: HELLO",
+    "content": "Forward: Forward: Reply: kdnsidf",
+    "sentDate": "2024/11/06 23:14"
+  },
+  {
+    "id": "079bd3ca-a420-48a2-96dc-cdeae2b5b04c",
+    "sender": "user1@test.com",
+    "recipients": [
+      "user3@test.com"
+    ],
+    "subject": "test",
+    "content": "test",
+    "sentDate": "2024/11/07 00:39"
+  },
+  {
+    "id": "c18471b3-b650-413e-ac27-a678a43568ed",
+    "sender": "user3@test.com",
+    "recipients": [
+      "user2@test.com"
+    ],
+    "subject": "Reply: prova123",
+    "content": "Reply: 123prova HELLO",
+    "sentDate": "2024/11/07 08:02"
+  },
+  {
+    "id": "5c637fee-e04d-4e1a-b98b-daece5ae6318",
+    "sender": "user2@test.com",
+    "recipients": [
+      "user1@test.com",
+      "user3@test.com"
+    ],
+    "subject": "Forward: Forward: Reply: HELLO",
+    "content": "Forward: Forward: Reply: kdnsidf",
+    "sentDate": "2024/11/07 08:03"
+  },
+  {
+    "id": "88fd80f8-b260-419f-a8aa-755d7288c10a",
+    "sender": "user1@test.com",
+    "recipients": [
+      "user2@test.com",
+      "user3@test.com"
+    ],
+    "subject": "new test",
+    "content": "ultimo",
+    "sentDate": "2024/11/07 08:51"
+  },
+  {
+    "id": "cae43831-1acf-44fc-a498-d7e79f377173",
+    "sender": "user1@test.com",
+    "recipients": [
+      "user2@test.com",
+      "user3@test.com"
+    ],
+    "subject": "PROG3",
+    "content": "CIAO",
+    "sentDate": "2024/11/07 10:15"
+  },
+  {
+    "id": "b7424385-489f-4005-8962-a06e52aa1e6d",
+    "sender": "user1@test.com",
+    "recipients": [
+      "user2@test.com"
+    ],
+    "subject": "server down",
+    "content": "down",
+    "sentDate": "2024/11/07 10:19"
+  }
+]
